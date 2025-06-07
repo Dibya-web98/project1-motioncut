@@ -10,9 +10,6 @@ It includes:
 
 💡 This project was created as part of *Project 1* for the *MotionCut Internship*.
 
-## 🔗 Live Preview (optional)
-If hosted (like on GitHub Pages), you can add a live preview link here.
-
 ## 🛠 Technologies Used
 - HTML5
 - CSS3
